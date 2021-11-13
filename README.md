@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ArztKlein's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArztKlein)](https://github.com/anuraghazra/github-readme-stats)
+[![ArztKlein's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArztKlein&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
