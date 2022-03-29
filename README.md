@@ -11,7 +11,7 @@
 <a href="https://mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://nodejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 
-<!-- [![ArztKlein's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArztKlein&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+![Metrics](https://metrics.lecoq.io/ArztKlein?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Pacific%2FAuckland)
 
 ![Stats Overview](https://raw.githubusercontent.com/ArztKlein/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/ArztKlein/github-stats-transparent/output/generated/languages.svg)
